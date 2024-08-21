@@ -17,4 +17,4 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
    Ouvrez un terminal et exécutez la commande suivante pour cloner le repository :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repository.git
+   https://github.com/kaderbabaro/ActusTesla.git
